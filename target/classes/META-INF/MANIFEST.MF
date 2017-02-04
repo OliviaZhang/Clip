@@ -1,9 +1,10 @@
 Manifest-Version: 1.0
-Implementation-Title: Spring Clip Practise
+Implementation-Title: Clip
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: olivia
 Implementation-Vendor-Id: olivia.project
 Build-Jdk: 1.8.0_65
+Implementation-URL: http://projects.spring.io/spring-boot/clip/
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
 
